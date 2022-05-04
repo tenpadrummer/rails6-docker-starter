@@ -1,4 +1,4 @@
-# Rails 6 + Docker + PostgreSQLでのローカル環境構築スターター
+# Rails 7 + Docker + PostgreSQLでのローカル環境構築スターター
 
 # バージョン
 
